@@ -1,3 +1,9 @@
+These Nginx templates are now part of official zabbix distribution, please use them instead if you have Zabbix 4.2 or later:
+
+- [HTTP agent template](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/app/nginx_http)
+- [Zabbix agent template](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/app/nginx_agent)
+
+---
 # zbx_template_nginx
 Template App Nginx for Zabbix 4.0 that works without any external scripts.  
 You can poll Nginx using Zabbix agent locally(Template App Nginx Zabbix agent) or poll it directly from Zabbix server/proxy(Template App Nginx HTTP). Choose template that better suits you.  Tune URL with user macros if required.  
