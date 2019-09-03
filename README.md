@@ -1,4 +1,4 @@
-These Nginx templates are now part of official zabbix distribution, please use them instead if you have Zabbix 4.2 or later:
+These Nginx templates are now part of official Zabbix distribution, please use them instead if you have Zabbix 4.2 or later:
 
 - [HTTP agent template](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/app/nginx_http)
 - [Zabbix agent template](https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/app/nginx_agent)
